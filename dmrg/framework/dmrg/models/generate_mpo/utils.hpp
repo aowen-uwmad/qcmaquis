@@ -17,7 +17,7 @@
 #include <string>
 #include <sstream>
 
-#include <boost/bind.hpp>
+#include <boost/bind/bind.hpp>
 
 namespace generate_mpo
 {
